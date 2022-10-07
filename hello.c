@@ -6,6 +6,8 @@ int main(void) {
 	return 0;
 
 }
-printf("que edad tienes");
-int edad;
-imput(&edad);
+
+void decirHola(char* nombre) {
+
+	prinf("hola %s, ¿como estas?", nombre)
+}
