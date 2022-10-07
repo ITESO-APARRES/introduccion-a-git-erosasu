@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("hola mundo");
+	printf("me llamo Ernesto Rosas");
 	
 	return 0;
 
 }
-printf("que edad tienes");
+
 int edad;
+printf("que edad tienes");
 imput(&edad);
